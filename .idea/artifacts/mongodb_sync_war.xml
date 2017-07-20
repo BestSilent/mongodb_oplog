@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mongodb_sync:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mongodb_sync-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mongodb_sync:war exploded" />
+    </root>
+  </artifact>
+</component>
